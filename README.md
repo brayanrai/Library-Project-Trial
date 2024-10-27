@@ -1,5 +1,5 @@
 Required:
 - MySQL 
 - Pyhon
-Python Libraries
+-Python Libraries:
 pip install mysql-connector-python
